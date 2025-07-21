@@ -1,0 +1,293 @@
+nav {
+    background-color: #fff;
+}
+
+.section1 img {
+    height: 3rem;
+    margin-left: 26px;
+
+}
+
+.section1 .link {
+    margin-left: 10px;
+}
+
+.section1 .links {
+    margin-left: 16px;
+}
+
+.section1 .links h6 {
+    font-size: 14px;
+    margin-top: 12px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.search {
+    margin-left: 50px;
+}
+
+.location {
+    margin-left: 37rem;
+    font-size: 20px;
+    padding: 8px;
+}
+
+.store {
+    letter-spacing: 0px;
+    margin-bottom: 5px;
+    font-size: smaller;
+    font-weight: 600;
+}
+
+.sign {
+    margin-left: 30px;
+
+}
+
+.sign button {
+    margin-top: 10px;
+    width: 98px;
+    height: 37px;
+}
+
+
+
+
+/* section2 */
+.section2 {
+    margin-top: 50rem;
+}
+
+.section2 .secretmenu img {
+    width: 43rem;
+    margin-left: 2rem;
+    height: 26rem;
+}
+
+.section2 .secretmenus img {
+    width: 45rem;
+    margin-left: 6rem;
+    height: 26rem;
+}
+
+.section2 .secret {
+    color: #ffff;
+    text-align: center;
+    margin-left: 32px;
+    width: 43rem;
+    background-color: #016241;
+    border: none;
+    height: 210px;
+}
+
+.section2 .secret button {
+    border-color: #FFFF;
+    color: #ffff;
+    cursor: pointer;
+
+}
+
+.section2 .contest {
+    color: #ffff;
+    text-align: center;
+    margin-left: 96px;
+    width: 45rem;
+    background-color: #016241;
+    border: none;
+    height: 210px;
+}
+
+.section2 .contest button {
+    border-color: #FFFF;
+    color: #ffff;
+    cursor: pointer;
+
+}
+
+
+
+
+
+/* section3 */
+.section3 .image3 img {
+    width: 717px;
+    height: 40rem;
+    margin-left: 2rem;
+
+
+}
+
+.section3 .content1 {
+    border: 1px, solid, #32462f;
+    width: 715px;
+    text-align: center;
+    background-color: #32462f;
+}
+
+.section3 .content2 {
+    margin-top: 12rem;
+
+}
+
+.section3 .content2 h1 {
+    font-size: 55px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    color: #ffff;
+}
+
+.section3 .content2 h5 {
+    font-size: 25px;
+    color: #FFFF;
+}
+
+.section3 .content2 button {
+    font-weight: 100;
+}
+
+
+
+
+/* section4 */
+.section4 .love {
+    border: 1px, solid, #f7f0e4;
+    text-align: center;
+    background-color: #f7f0e4;
+    margin-left: 43px;
+    width: 717px;
+    height: 25rem;
+}   
+
+.section4 .love h4 {
+    margin-top: 7rem;
+    font-weight: 600;
+    font-size: 25px;
+    color: #016241;
+}
+
+.section4 .love h5 {
+    color: #016241;
+}
+
+.section4 .love button {
+    color: #016241;
+    font-weight: 700;
+
+}
+
+.section4 img {
+    width: 715px;
+    height: 25rem;
+    margin-right: -3px;
+}
+
+
+
+
+
+
+
+
+.section5 .order img {
+    width: 715px;
+    height: 25rem;
+    margin-left: 35px;
+    object-fit: cover;
+
+}
+.section6 .collection {
+    border: 1px, solid, #006242;
+    width: 719px;
+    text-align: center;
+    background-color:#006242;
+    margin-left: 41px;
+}
+
+
+
+.section6 .collection h1 {
+    margin-top: 12rem;
+    font-size: 55px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    color: #ffff;
+}
+
+.section6 .collection h5 {
+    font-size: 25px;
+    color: #FFFF;
+}
+
+.section6 .collection button {
+    font-weight: 100;
+}
+  .section6 .data img{
+   width: 715px;
+    height: 35rem;
+    margin-left: 0px;
+    object-fit: cover;
+    
+
+  }
+  .section8 .row.border-top {
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); /* shadow on top */
+}
+.section8  .row.border-bottom{
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); /* shadow on top */
+
+}
+   .section8 .col-md-2 {
+    margin-top: 20px;
+   }
+
+
+.section8 .about a {
+font-size:medium;
+  text-decoration: none;
+  color: black;
+  opacity: 0.6;
+  transition: opacity 0.3s ease;
+}
+
+.section8 .about a:hover {
+  opacity: 1;
+}
+
+
+
+.icon a {
+    border-radius: 30px;
+  background-color: black;
+  border: none;
+  width: 100%;
+  height: 300px;
+  padding: 10px;
+  margin-left: 25px;
+}
+
+
+
+
+
+.tags{
+ margin-left: 30px;
+ margin-top: 10px;
+ 
+}
+
+
+
+.tags a {
+  text-decoration: none;     /* Remove underline */
+  color: black;              /* Text color black */
+  transition: all 0.2s ease; /* Smooth hover effect */
+  font-size: 16px;
+  font-weight: 450;
+  
+}
+
+.tags a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+
